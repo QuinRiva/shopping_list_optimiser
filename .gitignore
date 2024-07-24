@@ -1,0 +1,6 @@
+backend/node_modules/
+frontend/node_modules/
+backend/.env
+frontend/.env
+get_oath_token.py
+get_token.py
